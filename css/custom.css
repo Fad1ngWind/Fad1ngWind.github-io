@@ -181,12 +181,12 @@
   /* 滚动条 */
   
   ::-webkit-scrollbar {
-    width: 10px;
+    width: 8px;
     height: 10px;
   }
   
   ::-webkit-scrollbar-thumb {
-    background-color: #3b70fc;
+    background-color: #87ceeb;
     border-radius: 2em;
   }
   
@@ -196,7 +196,7 @@
   
   ::-moz-selection {
     color: #fff;
-    background-color: #3b70fc;
+    background-color: #78c0dc;
   }
   
   /* 音乐播放器 */
