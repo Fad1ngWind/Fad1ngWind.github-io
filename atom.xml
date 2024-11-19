@@ -6,7 +6,7 @@
   <link href="https://zhr0529.cn/atom.xml" rel="self"/>
   
   <link href="https://zhr0529.cn/"/>
-  <updated>2024-11-19T06:53:03.569Z</updated>
+  <updated>2024-11-19T15:43:11.462Z</updated>
   <id>https://zhr0529.cn/</id>
   
   <author>
@@ -17,14 +17,70 @@
   <generator uri="https://hexo.io/">Hexo</generator>
   
   <entry>
+    <title>【项目】</title>
+    <link href="https://zhr0529.cn/posts/a00776bd.html"/>
+    <id>https://zhr0529.cn/posts/a00776bd.html</id>
+    <published>2024-11-19T15:41:57.000Z</published>
+    <updated>2024-11-19T15:43:11.462Z</updated>
+    
+    <content type="html"><![CDATA[<p>test</p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;p&gt;test&lt;/p&gt;
+</summary>
+      
+    
+    
+    
+    <category term="实操" scheme="https://zhr0529.cn/categories/%E5%AE%9E%E6%93%8D/"/>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>【日记】</title>
+    <link href="https://zhr0529.cn/posts/b433b0a3.html"/>
+    <id>https://zhr0529.cn/posts/b433b0a3.html</id>
+    <published>2024-11-19T15:40:23.000Z</published>
+    <updated>2024-11-19T15:43:07.053Z</updated>
+    
+    <content type="html"><![CDATA[<p>test</p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;p&gt;test&lt;/p&gt;
+</summary>
+      
+    
+    
+    
+    <category term="日记" scheme="https://zhr0529.cn/categories/%E6%97%A5%E8%AE%B0/"/>
+    
+    
+  </entry>
+  
+  <entry>
     <title>技术随想</title>
     <link href="https://zhr0529.cn/posts/dfb8a81f.html"/>
     <id>https://zhr0529.cn/posts/dfb8a81f.html</id>
     <published>2024-11-19T06:50:31.000Z</published>
-    <updated>2024-11-19T06:53:03.569Z</updated>
+    <updated>2024-11-19T15:43:17.774Z</updated>
+    
+    <content type="html"><![CDATA[<p>test</p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;p&gt;test&lt;/p&gt;
+</summary>
+      
     
     
     
+    <category term="理论" scheme="https://zhr0529.cn/categories/%E7%90%86%E8%AE%BA/"/>
     
     
   </entry>
