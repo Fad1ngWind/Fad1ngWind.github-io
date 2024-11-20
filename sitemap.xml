@@ -2,6 +2,15 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://zhr0529.cn/posts/a00776bd.html</loc>
+    
+    <lastmod>2024-11-20</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>https://zhr0529.cn/posts/b433b0a3.html</loc>
     
     <lastmod>2024-11-20</lastmod>
@@ -14,15 +23,6 @@
     <loc>https://zhr0529.cn/posts/dfb8a81f.html</loc>
     
     <lastmod>2024-11-20</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://zhr0529.cn/posts/a00776bd.html</loc>
-    
-    <lastmod>2024-11-19</lastmod>
     
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
@@ -73,7 +73,21 @@
   </url>
 
   
+  <url>
+    <loc>https://zhr0529.cn/tags/Hexo/</loc>
+    <lastmod>2024-11-20</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
 
+  
+  <url>
+    <loc>https://zhr0529.cn/categories/%E6%97%A5%E8%AE%B0/</loc>
+    <lastmod>2024-11-20</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
   
   <url>
     <loc>https://zhr0529.cn/categories/%E5%AE%9E%E6%93%8D/</loc>
@@ -84,13 +98,6 @@
   
   <url>
     <loc>https://zhr0529.cn/categories/%E7%90%86%E8%AE%BA/</loc>
-    <lastmod>2024-11-20</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://zhr0529.cn/categories/%E6%97%A5%E8%AE%B0/</loc>
     <lastmod>2024-11-20</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
