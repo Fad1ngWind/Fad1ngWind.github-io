@@ -40,34 +40,11 @@
   </entry>
   
   <entry>
-    <title>【日记】</title>
+    <title>技术随想</title>
     <link href="https://zhr0529.cn/posts/b433b0a3.html"/>
     <id>https://zhr0529.cn/posts/b433b0a3.html</id>
     <published>2024-11-19T15:40:23.000Z</published>
-    <updated>2024-11-19T15:43:07.053Z</updated>
-    
-    <content type="html"><![CDATA[<p>test</p>]]></content>
-    
-    
-      
-      
-    <summary type="html">&lt;p&gt;test&lt;/p&gt;
-</summary>
-      
-    
-    
-    
-    <category term="日记" scheme="https://zhr0529.cn/categories/%E6%97%A5%E8%AE%B0/"/>
-    
-    
-  </entry>
-  
-  <entry>
-    <title>技术随想</title>
-    <link href="https://zhr0529.cn/posts/dfb8a81f.html"/>
-    <id>https://zhr0529.cn/posts/dfb8a81f.html</id>
-    <published>2024-11-19T06:50:31.000Z</published>
-    <updated>2024-11-19T15:43:17.774Z</updated>
+    <updated>2024-11-20T07:47:43.107Z</updated>
     
     <content type="html"><![CDATA[<p>test</p>]]></content>
     
@@ -81,6 +58,29 @@
     
     
     <category term="理论" scheme="https://zhr0529.cn/categories/%E7%90%86%E8%AE%BA/"/>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>【日记】</title>
+    <link href="https://zhr0529.cn/posts/dfb8a81f.html"/>
+    <id>https://zhr0529.cn/posts/dfb8a81f.html</id>
+    <published>2024-11-19T06:50:31.000Z</published>
+    <updated>2024-11-20T07:47:30.026Z</updated>
+    
+    <content type="html"><![CDATA[<p>test</p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;p&gt;test&lt;/p&gt;
+</summary>
+      
+    
+    
+    
+    <category term="日记" scheme="https://zhr0529.cn/categories/%E6%97%A5%E8%AE%B0/"/>
     
     
   </entry>
