@@ -6,7 +6,7 @@
   <link href="https://zhr0529.cn/atom.xml" rel="self"/>
   
   <link href="https://zhr0529.cn/"/>
-  <updated>2024-11-20T15:59:25.833Z</updated>
+  <updated>2024-11-21T15:50:45.642Z</updated>
   <id>https://zhr0529.cn/</id>
   
   <author>
@@ -21,9 +21,9 @@
     <link href="https://zhr0529.cn/posts/a00776bd.html"/>
     <id>https://zhr0529.cn/posts/a00776bd.html</id>
     <published>2024-11-19T15:41:57.000Z</published>
-    <updated>2024-11-20T15:59:25.833Z</updated>
+    <updated>2024-11-21T15:50:45.642Z</updated>
     
-    <content type="html"><![CDATA[<h1 id="个人博客开发日记"><a href="#个人博客开发日记" class="headerlink" title="个人博客开发日记"></a>个人博客开发日记</h1><h2 id="一、致谢"><a href="#一、致谢" class="headerlink" title="一、致谢"></a>一、致谢</h2><p>感谢安知鱼大佬，让我熟悉前端开发流程并使用框架快速搭建了博客，让我也体验了网页设计程序员的快乐~</p><div class="tag link"><a class="link-card" title="安知鱼：Butterfly重装日记" href="[butterfly 重装日记 | 安知鱼](https://blog.anheyu.com/posts/sdxhu.html)"><div class="left"><img src="https://s2.loli.net/2024/11/20/JjCpgOoieMHQ4lF.png）"/></div><div class="right"><p class="text">安知鱼：Butterfly重装日记</p><p class="url">[butterfly 重装日记 | 安知鱼](https://blog.anheyu.com/posts/sdxhu.html)</p></div></a></div><div class="tag link"><a class="link-card" title="糖果屋教程贴" href="https://akilar.top/posts/615e2dec/"><div class="left"><img src="https://cdn.cbd.int/akilar-candyassets@1.0.36/image/siteicon/favicon.ico"/></div><div class="right"><p class="text">糖果屋教程贴</p><p class="url">https://akilar.top/posts/615e2dec/</p></div></a></div><h2 id="二、博客开发和前端学习暂时告一段落"><a href="#二、博客开发和前端学习暂时告一段落" class="headerlink" title="二、博客开发和前端学习暂时告一段落"></a>二、博客开发和前端学习暂时告一段落</h2><p>博客还有很多很多可以优化的地方，但我毕竟不是这个方向的，能琢磨成这样已经非常满意了。后面我会多写博客，等以后有机会再优化网站。</p><blockquote><p>网站主题配置文件</p></blockquote><p><img src="https://s2.loli.net/2024/11/20/BEZIamsbDlrhokd.png" alt=""></p><blockquote><p>文章编写源代码文件</p></blockquote><p><img src="https://s2.loli.net/2024/11/20/tK74R9SJOBUNIeu.png" alt=""></p>]]></content>
+    <content type="html"><![CDATA[<h1 id="个人博客开发日记"><a href="#个人博客开发日记" class="headerlink" title="个人博客开发日记"></a>个人博客开发日记</h1><h2 id="一、致谢"><a href="#一、致谢" class="headerlink" title="一、致谢"></a>一、致谢</h2><p>感谢安知鱼大佬，让我熟悉前端开发流程并使用框架快速搭建了博客，让我也体验了网页设计程序员的快乐~</p><div class="tag link"><a class="link-card" title="安知鱼：Butterfly重装日记" href="https://blog.anheyu.com/posts/sdxhu.html"><div class="left"><img src="https://s2.loli.net/2024/11/20/JjCpgOoieMHQ4lF.png）"/></div><div class="right"><p class="text">安知鱼：Butterfly重装日记</p><p class="url">https://blog.anheyu.com/posts/sdxhu.html</p></div></a></div><div class="tag link"><a class="link-card" title="糖果屋教程贴" href="https://akilar.top/posts/615e2dec/"><div class="left"><img src="https://cdn.cbd.int/akilar-candyassets@1.0.36/image/siteicon/favicon.ico"/></div><div class="right"><p class="text">糖果屋教程贴</p><p class="url">https://akilar.top/posts/615e2dec/</p></div></a></div><h2 id="二、博客开发和前端学习暂时告一段落"><a href="#二、博客开发和前端学习暂时告一段落" class="headerlink" title="二、博客开发和前端学习暂时告一段落"></a>二、博客开发和前端学习暂时告一段落</h2><p>博客还有很多很多可以优化的地方，但我毕竟不是这个方向的，能琢磨成这样已经非常满意了。后面我会多写博客，等以后有机会再优化网站。</p><blockquote><p>网站主题配置文件</p></blockquote><p><img src="https://s2.loli.net/2024/11/20/BEZIamsbDlrhokd.png" alt=""></p><blockquote><p>文章编写源代码文件</p></blockquote><p><img src="https://s2.loli.net/2024/11/20/tK74R9SJOBUNIeu.png" alt=""></p><h2 id="关于网址域名更改回https-Fad1ngWind-github-io"><a href="#关于网址域名更改回https-Fad1ngWind-github-io" class="headerlink" title="关于网址域名更改回https://Fad1ngWind.github.io"></a>关于网址域名更改回<a href="https://Fad1ngWind.github.io">https://Fad1ngWind.github.io</a></h2><p>11.21号晚上，本来兴致勃勃的回到家里打开电脑想更新一下博客，结果发现网页访问不了了。各种问题排查才发现是没备案导致的，好家伙一研究才发现备案这么麻烦😢费时费力填了一大堆相关信息不说过不过还要看工作人员脸色，最后还要花几百块买个ICP备案服务码才肯给你搞。于是乎我决定先换回这个基于Github直接推送的域名，暂时先弃用之前斥巨资购买的两年zhr0529.cn的域名，望周知。😊</p><p><img src="https://s2.loli.net/2024/11/21/2ljPtJXagMZ1Amb.png" alt=""></p>]]></content>
     
     
       
@@ -82,26 +82,6 @@
     
     
     <category term="日记" scheme="https://zhr0529.cn/categories/%E6%97%A5%E8%AE%B0/"/>
-    
-    
-  </entry>
-  
-  <entry>
-    <title>Hello World</title>
-    <link href="https://zhr0529.cn/posts/4a17b156.html"/>
-    <id>https://zhr0529.cn/posts/4a17b156.html</id>
-    <published>2024-11-16T09:21:09.247Z</published>
-    <updated>2024-11-16T13:30:16.326Z</updated>
-    
-    <content type="html"><![CDATA[<p>Welcome to <a href="https://hexo.io/">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues">GitHub</a>.</p><h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo new <span class="string">&quot;My New Post&quot;</span></span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/writing.html">Writing</a></p><h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/server.html">Server</a></p><h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/generating.html">Generating</a></p><h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/one-command-deployment.html">Deployment</a></p>]]></content>
-    
-    
-      
-      
-    <summary type="html">&lt;p&gt;Welcome to &lt;a href=&quot;https://hexo.io/&quot;&gt;Hexo&lt;/a&gt;! This is your very first post. Check &lt;a href=&quot;https://hexo.io/docs/&quot;&gt;documentation&lt;/a&gt; for</summary>
-      
-    
-    
     
     
   </entry>
