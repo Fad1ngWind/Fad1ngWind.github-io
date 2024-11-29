@@ -6,7 +6,7 @@
   <link href="https://zhr0529.cn/atom.xml" rel="self"/>
   
   <link href="https://zhr0529.cn/"/>
-  <updated>2024-11-24T14:55:52.578Z</updated>
+  <updated>2024-11-29T15:04:47.394Z</updated>
   <id>https://zhr0529.cn/</id>
   
   <author>
@@ -15,6 +15,30 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>【理论】《armcortex-M3权威指南》学习笔记</title>
+    <link href="https://zhr0529.cn/posts/12f608ec.html"/>
+    <id>https://zhr0529.cn/posts/12f608ec.html</id>
+    <published>2024-11-29T14:59:42.000Z</published>
+    <updated>2024-11-29T15:04:47.394Z</updated>
+    
+    <content type="html"><![CDATA[<h1 id="《ARM-cortex-M3权威指南》学习笔记"><a href="#《ARM-cortex-M3权威指南》学习笔记" class="headerlink" title="《ARM cortex-M3权威指南》学习笔记"></a>《ARM cortex-M3权威指南》学习笔记</h1><h2 id="学习目的"><a href="#学习目的" class="headerlink" title="学习目的"></a>学习目的</h2><p>是时候把单片机开发学得再深入一些了。我希望自己之后的开发能深入到内核和汇编层面，自然要多补充一些理论基础。好的</p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;h1 id=&quot;《ARM-cortex-M3权威指南》学习笔记&quot;&gt;&lt;a href=&quot;#《ARM-cortex-M3权威指南》学习笔记&quot; class=&quot;headerlink&quot; title=&quot;《ARM cortex-M3权威指南》学习笔记&quot;&gt;&lt;/a&gt;《ARM cortex-M3权威指</summary>
+      
+    
+    
+    
+    <category term="理论" scheme="https://zhr0529.cn/categories/%E7%90%86%E8%AE%BA/"/>
+    
+    
+    <category term="cortex-M3" scheme="https://zhr0529.cn/tags/cortex-M3/"/>
+    
+  </entry>
   
   <entry>
     <title>【前端】个人博客开发日记 - 基于hexo+butterfly</title>
@@ -45,19 +69,16 @@
     <link href="https://zhr0529.cn/posts/b433b0a3.html"/>
     <id>https://zhr0529.cn/posts/b433b0a3.html</id>
     <published>2024-11-19T15:40:23.000Z</published>
-    <updated>2024-11-24T14:55:49.216Z</updated>
+    <updated>2024-11-29T15:01:51.753Z</updated>
     
     <content type="html"><![CDATA[<h2 id="迎着阳光盛大逃亡"><a href="#迎着阳光盛大逃亡" class="headerlink" title="迎着阳光盛大逃亡"></a>迎着阳光盛大逃亡</h2><p>​      最后留在记忆深处的总是那些虚无缥缈的东西，就像你记住一个人往往不是因为她的美。很多年后你连她的样子都忘记了。可偶然在人流如织的街头闻到她惯用的香水味，你在惊悚中下意识地回过头去，却只看见万千过客的背影，你这才想起即便刚才和你擦肩而过的确实是她，即便你跟她四目相对，你也未必能认出她今天的样子了。</p><p>往事总在回忆中被赋予寓意🫠</p><p><img src="https://s2.loli.net/2024/11/22/nWZo1f3zlrBY5EM.png" alt="龙族"></p>]]></content>
     
     
-      
-      
-    <summary type="html">&lt;h2 id=&quot;迎着阳光盛大逃亡&quot;&gt;&lt;a href=&quot;#迎着阳光盛大逃亡&quot; class=&quot;headerlink&quot; title=&quot;迎着阳光盛大逃亡&quot;&gt;&lt;/a&gt;迎着阳光盛大逃亡&lt;/h2&gt;&lt;p&gt;​      最后留在记忆深处的总是那些虚无缥缈的东西，就像你记住一个人往往不是因为她的美。</summary>
-      
+    <summary type="html">1</summary>
     
     
     
-    <category term="理论" scheme="https://zhr0529.cn/categories/%E7%90%86%E8%AE%BA/"/>
+    <category term="日记" scheme="https://zhr0529.cn/categories/%E6%97%A5%E8%AE%B0/"/>
     
     
     <category term="随想" scheme="https://zhr0529.cn/tags/%E9%9A%8F%E6%83%B3/"/>
