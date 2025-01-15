@@ -6,7 +6,7 @@
   <link href="https://zhr0529.cn/atom.xml" rel="self"/>
   
   <link href="https://zhr0529.cn/"/>
-  <updated>2024-12-09T14:33:17.823Z</updated>
+  <updated>2024-12-20T04:46:30.937Z</updated>
   <id>https://zhr0529.cn/</id>
   
   <author>
@@ -15,6 +15,31 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>我的简历</title>
+    <link href="https://zhr0529.cn/posts/8485e0fd.html"/>
+    <id>https://zhr0529.cn/posts/8485e0fd.html</id>
+    <published>2024-12-20T04:22:22.000Z</published>
+    <updated>2024-12-20T04:46:30.937Z</updated>
+    
+    <content type="html"><![CDATA[<blockquote><p>为了以后应对各种场合写简历时能有更清晰的思路，单开此帖。也顺便记录自己的简历丰富进程，实时更新。</p></blockquote><h2 id="教育背景"><a href="#教育背景" class="headerlink" title="教育背景"></a>教育背景</h2><ul><li>2023-09 ~ 2024-06    <strong>浙江工业大学</strong>  量化金融（本科）</li><li>2024-09 ~ 2028-06    <strong>浙江工业大学</strong>  机器人工程（感知与控制方向）（本科）</li></ul><h2 id="实习经历"><a href="#实习经历" class="headerlink" title="实习经历"></a>实习经历</h2><ul><li><p>2024-07 ~ 2024-09    <strong>福建靠谱云算力技术有限公司</strong></p><p>  ​    &gt; 服务器和终端运营部    云网运维工程师</p></li><li><p><strong>工作内容</strong></p></li></ul><p>​    服务器运维管理：高效参与公司服务器集群的日常监控与故障排查，精通Linux系统操作及服务器配置优化，熟练运用性能监控工具，确保服务器稳定运行。云算力平台运营：协同团队进行云算力平台的维护与升级，优化资源分配与负载均衡，有效处理用户反馈，显著提升平台服务质量与用户体验。虚拟机镜像管理：主导平台老旧镜像升级，全球节点分发新镜像，参与新镜像测试，确保稳定性与可用性。同时，参与底层平台维护，快速响应监控报警，根据反馈调优虚拟机及其宿主机性能，并成功实施业务热迁移处理硬件故障。</p><ul><li><strong>业绩与成果</strong></li></ul><p>​    通过持续学习，进一步提升了专业技能与实际操作能力，深入理解企业运营流程与行业需求，为未来职业发展奠定坚实基础，获得部门领导及同事的一致好评。</p><h2 id="项目经验"><a href="#项目经验" class="headerlink" title="项目经验"></a>项目经验</h2><ul><li>2024-07 ~ 2024-10     <strong>四足仿生机器人 - 快递运送赛中型组赛项</strong></li><li><strong>项目描述</strong></li></ul><p>​    设计四足仿生机器人，模拟快递运送场景，需穿越限高杆、斜坡、分岔路及台阶等地形，并准确送达快递至住户敲响铃铛。本人主导完成了机器人快递背筐系统的代码编写与PCB电路板设计，确保任务高效执行。</p><ul><li><strong>业绩与成果</strong></li></ul><p>​    2024年中国机器人大赛的激烈竞争中脱颖而出，荣获全国亚军，斩获国家一等奖。</p><h2 id="个人证书"><a href="#个人证书" class="headerlink" title="个人证书"></a>个人证书</h2><ul><li>英语四级（国家级） </li><li>英语六级（国家级）</li><li>普通话二级甲等（国家级）</li></ul><h2 id="技能特长"><a href="#技能特长" class="headerlink" title="技能特长"></a>技能特长</h2><ul><li><strong>C语言&amp;&amp;Python 程序设计</strong></li></ul><p>​    掌握C语言与Python程序设计能力，转专业考试C语言排名前5%，修读《程序设<br>计基础Python》课程，期末卷面成绩87分</p><ul><li><strong>stm32&amp;&amp;stm51单片机及基础电子元件使用</strong></li></ul><p>​    熟悉stm32标准库使用，掌握舵机、红外循迹模块、超声波测距、电机编码器等电子元件代码逻辑与使用。自行学习SPI、RS232、RS485、IIC通信总线协议。熟悉pid算法调参，目前自行DIY了一台红外循迹平衡小车。</p><ul><li><strong>电路设计及制作</strong></li></ul><p>​    熟悉altium designer软件使用，曾为机器狗设计pcb电路板。该机器狗于今年十一月份获得国家一等奖。目前正在自学《电路》以强化电路设计本领。熟练掌握电子元件焊接技巧。</p><ul><li><strong>Linux系统基础操作及指令</strong></li></ul>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;blockquote&gt;
+&lt;p&gt;为了以后应对各种场合写简历时能有更清晰的思路，单开此帖。也顺便记录自己的简历丰富进程，实时更新。&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;h2 id=&quot;教育背景&quot;&gt;&lt;a href=&quot;#教育背景&quot; class=&quot;headerlink&quot; title=&quot;教</summary>
+      
+    
+    
+    
+    <category term="日记" scheme="https://zhr0529.cn/categories/%E6%97%A5%E8%AE%B0/"/>
+    
+    
+  </entry>
   
   <entry>
     <title>信息学院竞赛创新班学习进程</title>
